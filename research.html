@@ -1,0 +1,31 @@
+---
+layout: default
+title: Research
+permalink: /research/
+---
+
+<div class="page-hero">
+  <div class="section-inner">
+    <h1 class="page-title">Research</h1>
+    <p class="page-intro">
+      I study how the human brain supports complex cognition — from abstract
+      reasoning and rule learning to the effects of sleep on neural and fluid
+      dynamics. My work combines functional neuroimaging, network science,
+      and computational modeling.
+    </p>
+  </div>
+</div>
+
+<section class="research-detail">
+  <div class="section-inner">
+    {% for area in site.data.research %}
+    <div class="research-detail-item">
+      <div class="research-detail-icon icon-{{ area.icon }}"></div>
+      <div class="research-detail-text">
+        <h2>{{ area.title }}</h2>
+        <p>{{ area.description }}</p>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</section>

@@ -1,0 +1,134 @@
+posters:
+  - title: "Automated segmentation of the choroid plexus"
+    year: 2025
+    venue: "Martinos Center 25th Anniversary Symposium"
+    file: /assets/docs/posters/Morin_Martinos25th.pdf
+    description: "Automated choroid plexus segmentation algorithm comparison"
+  - title: "D2/3 receptor occupancy measured with [11C]-raclopride and functional brain network reconfiguration in healthy older adults"
+    year: 2023
+    venue: "SfN 2023"
+    file: /assets/docs/posters/Morin_SfN_2023.pdf
+    description: "Network reconfiguration analysis during reward memory task with simultaneous [11C]Raclopride PET/MR"
+  - title: "Hierarchical gradients in hippocampus and prefrontal cortex support rule learning"
+    year: 2022
+    venue: "SfN 2022"
+    file: /assets/docs/posters/Morin_SfN_2022.pdf
+    description: "Dynamic functional connectivity of fMRI data collected during rule learning"
+  - title: "Cortical contributions to perceptual and symbolic reasoning using a one-dimensional Raven's progressive matrices task"
+    year: 2019
+    venue: "SfN 2019"
+    file: /assets/docs/posters/Morin_SfN_2019.pdf
+    description: "Univariate fMRI and behavioral analysis of simplified Raven's Progressive Matrices task"
+
+slide_decks:
+  - title: "Frontoparietal control network contributes to abstract reasoning behavior in humans"
+    year: 2020
+    venue: "Boston University"
+    file: /assets/docs/slides/Morin_Quals_compressed.pptx
+    description: "Slides from my PhD qualifying exam"
+  - title: "BU Progress Report (Thesis Prospectus)"
+    year: 2021
+    venue: "Boston University"
+    file: /assets/docs/slides/Morin_ProgressReport.pptx
+    description: "Slides from my PhD Progress Report (some places call this a prospectus)"
+  - title: "Dynamic brain network reconfiguration supports abstract reasoning and rule learning "
+    year: 2022
+    venue: "Boston University"
+    file: /assets/docs/slides/Morin_Defense_2022-03-17_compressed.pptx
+    description: "Slides from my PhD dissertation defense"
+  - title: "Functional reconfiguration of a task-active frontoparietal control network facilitates abstract reasoning"
+    year: 2022
+    venue: "Boston University"
+    file: /assets/docs/slides/Morin_RussekDay_2022.pptx
+    description: "Russek Day Student Achievement Award"
+  - title: "Postdoc Interview Presentation"
+    year: 2022
+    venue: "Brandeis University"
+    file: /assets/docs/slides/Morin_BerryLabMtg_compressed.pptx
+    description: "Slides presented during my postdoc interview with the Berry Lab at Brandeis"
+  - title: "2022 ISTAART NSS PIA Year in Review"
+    year: 2023
+    venue: "ISTAART NSS PIA"
+    file: /assets/docs/slides/Morin_NSS_PIA_YearInReview2022_compressed.pptx
+    description: "A look back at some of our favorite papers from 2022 related to neuromodulatory and subocortical systems (NSS) for the ISTAART Professional Interest Area"
+  - title: "Deciphering Dopamine: The Aging Brain's Unsolved Riddle"
+    year: 2023
+    venue: "Beacon Hill Seminars"
+    file: /assets/docs/slides/Morin_BeaconHillSeminars2023.pptx
+    description: "A brief overview of the science on dopamine, aging, and Alzheimer's disease for a general audience"
+  - title: "Brain Health & Alzheimer's: What Everyone Should Know"
+    year: 2025
+    venue: "Seniors Helping Seniors of Waltham"
+    file: /assets/docs/slides/SHS_Presentation_toShare.pptx
+    description: "A brief overview of the latest science on Alzheimer's disease, for a general audience"
+  - title: "Intro to BIDS"
+    year: 2025
+    venue: "Science on Tap, Martinos Center"
+    file: /assets/docs/slides/Morin_BIDS_April2025.pptx
+    description: "Introduction to the Brain Imaging Data Structure"
+  - title: "Intro to Neuroimaging"
+    year: 2026
+    venue: "Tufts University, PSY 9"
+    file: /assets/docs/slides/Intro_to_Brain_Imaging_2026.pptx
+    description: "Guest lecture for Tufts Intro to Cognitive & Brain Science"
+  - title: "fMRI CSF Flow Imaging Animation"
+    year: 2026
+    venue: "Brandeis Berry Lab Meeting 2026"
+    file: /assets/docs/slides/Morin_CSF_flow_explainer.pptx
+    description: "Guest lecture for Tufts Intro to Cognitive & Brain Science"
+
+theses:
+  - title: "Dynamic brain network reconfiguration supports abstract reasoning and rule learning"
+    year: 2022
+    file: /assets/docs/theses/Morin_Dissertation_2022.pdf
+    description: "PhD Dissertation"
+  - title: "Optimizing fPET-FDG"
+    year: 2017
+    file: /assets/docs/theses/Morin_tufts_thesis_2017.pdf
+    description: "Undergraduate Thesis"
+
+grants:
+  - title: "NIH F32 NRSA Postdoctoral Fellowship (Funded)"
+    year: 2023
+    funder: "NIH/NIA"
+    file: /assets/docs/grants/Morin_F32_A1_science.pdf
+    description: "Funded postdoctoral fellowship proposal."
+  - title: "NIH Loan Repayment Program Proposal (Funded)"
+    year: 2023
+    funder: "NIH/NIA"
+    file: /assets/docs/grants/Morin_LRP_science.pdf
+    description: "Funded loan repayment program proposal"
+  - title: "Alzheimer's Association Research Fellowship (Not Funded)"
+    year: 2023
+    funder: "Alzheimer's Association"
+    file: /assets/docs/grants/Morin_AARF_Science_A1.pdf
+    description: "GRFP research proposal and personal statement."
+  - title: "NIA F99/K00 Application (Not Funded)"
+    year: 2020
+    funder: "NIH/NIA"
+    file: /assets/docs/grants/Morin_F99K00_2020_Resubmission_Science.pdf
+    description: "GRFP research proposal and personal statement."
+  - title: "NSF Graduate Research Fellowship (Not Funded - Honorable Mention)"
+    year: 2018
+    funder: "NSF"
+    file: /assets/docs/grants/Morin_NSF_GRFP.pdf
+    description: "GRFP research proposal and personal statement."
+
+personal_statements:
+  - title: "PhD Program Application Statement"
+    year: 2016
+    program: "Neuroscience PhD, Boston University"
+    file: /assets/docs/statements/phd_statement_2016.pdf
+    description: "Personal statement submitted with PhD applications."
+
+code:
+  - title: "PK Simulator"
+    year: 2017
+    language: "Matlab"
+    url: "https://github.com/tmorin01/PKsimulation"
+    description: "GUI tool for simulating PET radiotracer pharmacokinetics. Implemented in MATLAB"
+  - title: "Statistics & Figures: Morin et al. 2026, J. Neuro."
+    year: 2026
+    language: "R"
+    url: "https://github.com/tmorin01/BACS_dopamine_tau"
+    description: "Figures for Morin et al. 2026: Alzheimer's disease pathologies disrupt dopaminergic mechansims of memory"

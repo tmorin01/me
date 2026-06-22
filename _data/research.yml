@@ -1,0 +1,22 @@
+- title: Dopamine, Aging, & Alzheimer's Disease
+  description: >
+    Age-related shifts in the dopamine system shape memory and cognition.
+    We use multimodal brain imaging and network science approaches to 
+    investigate the neurochemical contributions to resilience and vulnerability
+    to age-related neurodegenerative disease including Alzheimer's disease.
+  icon: memory
+
+- title: Functional Brain Network Dynamics
+  description: >
+    Large-scale brain networks don't just activate - they reorganize.
+    Graph-theoretic analyses of task-based fMRI demonstrate how the
+    frontoparietal control network flexibly reconfigures to support
+    rule learning, abstract reasoning, and memory-guided attention.
+  icon: network
+
+- title: PET Neuroimaging for Clinical Research
+  description: >
+    PET imaging as a window into brain biology. Work spans
+    in-human validation of new radiotracers, pharmacokinetic modeling,
+    and comparison of drug-delivery to the brain across routes of administration.
+  icon: molecule

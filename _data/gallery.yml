@@ -1,0 +1,16 @@
+- image: /assets/gallery/morin_etal_2026.jpg
+  alt: fMRI activation maps
+  caption: Memory-related brain activation shows associations with dopamine synthesis capacity and Alzheimer's disease pathology.
+  cite: "Morin et al., J. Neuro, 2026"
+  link: "https://www.jneurosci.org/content/46/7/e1580252026"
+
+- image: /assets/gallery/cp_segmentations.jpg
+  alt: maps comparing choroid plexus segmentations
+  caption: Automated choroid plexus segmentation using a probabilistic implementation of ASCHOPLEX
+  cite: "Bargagna, Morin et al., NPP Digital Psychiatry & Neuroscience, 2026"
+  link: "https://www.nature.com/articles/s44277-026-00056-1"
+
+- image: /assets/gallery/3d_brains.jpg
+  alt: two 3D-printed brains
+  caption: How to 3D Print your brain!
+  link: "/writing/2018/how-to-3d-print-your-brain/"

@@ -1,0 +1,45 @@
+---
+layout: default
+title: Publications
+permalink: /publications/
+---
+
+<div class="page-hero">
+  <div class="section-inner">
+    <h1 class="page-title">Publications</h1>
+    <p class="page-intro">
+      Full list on
+      <a href="https://scholar.google.com/citations?user=DYfllzQAAAAJ" target="_blank" rel="noopener" class="inline-link">Google Scholar</a>.
+    </p>
+  </div>
+</div>
+
+<section class="pub-section">
+  <div class="section-inner">
+    {% assign pubs_by_year = site.data.publications | group_by: "year" | sort: "name" | reverse %}
+    {% for year_group in pubs_by_year %}
+    <div class="pub-year-group">
+      <h2 class="pub-year-heading">{{ year_group.name }}</h2>
+      <ul class="pub-list pub-list--full">
+        {% for pub in year_group.items %}
+        <li class="pub-item">
+          <div class="pub-body">
+            <a href="{{ pub.url }}" class="pub-title" target="_blank" rel="noopener">{{ pub.title }}</a>
+            <span class="pub-authors">{{ pub.authors }}</span>
+            <span class="pub-journal">{{ pub.journal }}, {{ pub.year }}</span>
+            {% if pub.tags %}
+            <!--<div class="pub-tags">
+              {% for tag in pub.tags %}<span class="pub-tag">{{ tag }}</span>{% endfor %}
+            </div>-->
+            <div class="pub-links">
+              {% for link in pub.links %}<span class="pub-link">{{ link }}</span>{% endfor %}
+            </div>
+            {% endif %}
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endfor %}
+  </div>
+</section>

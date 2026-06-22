@@ -1,0 +1,119 @@
+# ── Published ──────────────────────────────────────────────────────────────────
+
+- title: "Dopamine-driven memory effects in healthy aging and preclinical Alzheimer's disease"
+  authors: "Morin TM, Cowan JL, Chen HY, Parent J, Crawford JL, Ciampa CJ, Tennant V, Whitman AJ, Swinneton KN, Hsu M, Jagust WJ, & Berry AS"
+  journal: Journal of Neuroscience
+  year: 2026
+  url: "https://doi.org/10.1523/jneurosci.1580-25.2026"
+  tags: [dopamine, aging, Alzheimer's, memory]
+  links: [<a href="../assets/pubs/morin2026_jneuro.pdf">PDF</a>,
+          <a href="../assets/pubs/morin2026_jneuro_supp.pdf">Supp PDF</a>, 
+          <a href="https://osf.io/sryb9/overview">OSF</a>,
+          <a href="https://github.com/tmorin01/BACS_dopamine_tau">github</a>]
+
+- title: "A probabilistic deep learning approach for choroid plexus segmentation in autism spectrum disorder"
+  authors: "*Bargagna F, *Morin TM, Chen Y, McDougle CJ, Hooker JM, & Zürcher NR"
+  journal: "Neuropsychopharmacology: Digital Psychiatry and Neuroscience"
+  year: 2026
+  url: "https://doi.org/10.1038/s44277-026-00056-1"
+  note: "* denotes equal contribution"
+  tags: [deep learning, choroid plexus, autism, neuroimaging]
+  links: [<a href="../assets/pubs/bargagna_morin_2026_nppdpn.pdf">PDF</a>,
+          <a href="../assets/pubs/bargagna_morin_2026_nppdpn_supp.pdf">SUPP PDF</a>,
+          <a href="../assets/pubs/bargagna_morin_2026_nppdpn_supp.xlsx">SUPP XLS</a>]
+
+- title: "Dopaminergic mechanisms supporting hippocampal post-encoding dynamics in humans"
+  authors: "Ciampa CJ, Morin TM, Parent JH, Adornato AA, Cowan JL, O'Malley KE, Marcus RE, Gordon C, Howard JD, Tambini A, Cusin C, Hooker JM, & Berry AS"
+  journal: PNAS
+  year: 2026
+  url: "https://doi.org/10.1073/pnas.2526799123"
+  tags: [dopamine, hippocampus, memory, fMRI]
+  links: [<a href="../assets/pubs/ciampa2026_pnas.pdf">PDF</a>,
+          <a href="../assets/pubs/ciampa2026_pnas_supp.pdf">SUPP PDF</a>]
+
+- title: "A feature-based generalizable prediction model for both perceptual and abstract reasoning"
+  authors: "Do Q, Morin TM, Stern CE, & Hasselmo ME"
+  journal: Cognitive Neuroscience
+  year: 2026
+  url: "https://doi.org/10.1080/17588928.2025.2599784"
+  tags: [reasoning, prediction, computational modeling]
+  links: [<a href="../assets/pubs/do2026_cogneuro.pdf">PDF</a>,
+          <a href="../assets/pubs/do2026_cogneuro_supp.pdf">SUPP PDF</a>]
+
+- title: "Olfactory drug delivery in rodents: Deposition and pharmacokinetics"
+  authors: "Morin TM, Allan N, Hooker JM, Berhard W, Barreto K, Jett KA, Carvalho JLC, Sarafis K, Geyer CR, Wei Y, Zhu L, Li F, Enright K, & Irving K"
+  journal: "ACS Pharmacology & Translational Science"
+  year: 2025
+  url: "https://doi.org/10.1021/acsptsci.5c00206"
+  tags: [drug delivery, olfactory, pharmacokinetics]
+  links: [<a href="../assets/pubs/morin2025_acspharm.pdf">PDF</a>,
+          <a href="../assets/pubs/morin2025_acspharm_supp.pdf">SUPP PDF</a>]
+
+- title: "Laminar fluid ejection for olfactory drug delivery: In-vitro and in-vivo tests"
+  authors: "Morin TM, Allan N, Coutts J, Hooker JM, Langille M, Metcalfe A, Thamboo A, Jackson J, Sharma M, Rees T, Enright K, & Irving K"
+  journal: "IEEE Journal of Translational Engineering in Health and Medicine"
+  year: 2024
+  url: "https://doi.org/10.1109/JTEHM.2024.3503498"
+  tags: [drug delivery, olfactory, biomedical engineering]
+  links: [<a href="../assets/pubs/morin2024_ieeejtehm.pdf">PDF</a>,
+          <a href="../assets/pubs/morin2024_ieeejtehm_supp.pdf">SUPP PDF</a>]
+
+- title: "DAT1 and BDNF polymorphisms interact to predict Aβ and tau pathology"
+  authors: "Ciampa CJ, Morin TM, Murphy A, La Joie R, Jagust WJ, Landau SM, & Berry AS"
+  journal: Neurobiology of Aging
+  year: 2024
+  url: "https://doi.org/10.1016/j.neurobiolaging.2023.10.009"
+  tags: [genetics, amyloid, tau, aging]
+  links: [<a href="../assets/pubs/ciampa2024_neurobioaging.pdf">PDF</a>]
+
+- title: "Functional network reconfiguration supporting memory-guided attention"
+  authors: "Isenburg KI, Morin TM, Rosen ML, Somers DC, & Stern CE"
+  journal: Cerebral Cortex
+  year: 2023
+  url: "https://doi.org/10.1093/cercor/bhad073"
+  tags: [default mode, attention, memory, fMRI]
+  links: [<a href="../assets/pubs/isenburg2023_cerebralcortex.pdf">PDF</a>,
+          <a href="../assets/pubs/isenburg2023_cerebralcortex_supp.pdf">SUPP PDF</a>]
+
+- title: "Functional reconfiguration of task-active frontoparietal cortex facilitates abstract reasoning"
+  authors: "Morin TM, Moore KN, Isenburg KI, Ma W, & Stern CE"
+  journal: Cerebral Cortex
+  year: 2023
+  url: "https://doi.org/10.1093/cercor/bhac457"
+  tags: [frontoparietal, networks, reasoning, fMRI]
+  links: [<a href="../assets/pubs/morin2023_cerebralcortex.pdf">PDF</a>,
+          <a href="../assets/pubs/isenburg2023_cerebralcortex_supp.pdf">SUPP PDF</a>]
+
+- title: "Dynamic network analysis demonstrates the formation of stable functional networks during rule learning"
+  authors: "Morin TM, Chang AE, Ma W, McGuire JT, & Stern CE"
+  journal: Cerebral Cortex
+  year: 2021
+  url: "https://doi.org/10.1093/cercor/bhab175"
+  tags: [networks, learning, fMRI, dynamic connectivity]
+  links: [<a href="../assets/pubs/morin2021_cerebralcortex.pdf">PDF</a>]  
+
+- title: "PET neuroimaging reveals histone deacetylase dysregulation in schizophrenia"
+  authors: "Gilbert TM, Zurcher NR, Wu CJ, Bhanot A, Hightower BG, Kim M, Albrecht DS, Wey HY, Schroeder FA, Rodriguez-Thompson A, Morin TM, et al."
+  journal: The Journal of Clinical Investigation
+  year: 2019
+  url: "https://doi.org/10.1172/JCI123743"
+  tags: [PET, schizophrenia, HDAC, neuroimaging]
+  links: [<a href="../assets/pubs/gilbert2018_jci.pdf">PDF</a>,
+          <a href="../assets/pubs/gilbert2018_jci_supp.pdf">SUPP PDF</a>] 
+
+- title: "HDAC6 brain mapping with [18F]Bavarostat enabled by a Ru-mediated deoxyfluorination"
+  authors: "Strebl MG, Campbell A, Zhao WN, Riley MM, Chindavong P, Morin TM, Haggarty SJ, Wagner FF, Ritter T, & Hooker JM"
+  journal: ACS Central Science
+  year: 2017
+  url: "http://dx.doi.org/10.1021/acscentsci.7b00274"
+  tags: [PET, HDAC6, radiochemistry, neuroimaging]
+  links: [<a href="../assets/pubs/strebl2017_acscentral.pdf">PDF</a>,
+          <a href="../assets/pubs/strebl2017_acscentral_supp.pdf">SUPP PDF</a>] 
+
+- title: "PET neurochemical imaging modes"
+  authors: "Placzek MS, Zhao W, Wey HY, Morin TM, & Hooker JM"
+  journal: Seminars in Nuclear Medicine
+  year: 2016
+  url: "http://dx.doi.org/10.1053/j.semnuclmed.2015.09.001"
+  tags: [PET, neuroimaging, review]
+  links: [<a href="../assets/pubs/placzek2016_semnucmed.pdf">PDF</a>] 

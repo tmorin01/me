@@ -1,0 +1,270 @@
+---
+layout: default
+title: Writing & Resources
+permalink: /writing/
+---
+
+<div class="page-hero">
+  <div class="section-inner">
+    <h1 class="page-title">Writing & Resources</h1>
+    <p class="page-intro">
+      A collection of conference posters, grant applications,
+      slide decks, code, and blog posts — on science, data, and whatever else
+      seemed worth sharing.
+    </p>
+  </div>
+</div>
+
+<section class="writing-section">
+  <div class="section-inner">
+
+    <!-- ==================== BLOG POSTS ==================== -->
+    <div class="resource-group">
+      <button class="group-toggle" aria-expanded="false" data-target="posts-random">
+        <span class="group-title">Blog Posts</span>
+        <span class="group-meta">{{ site.categories.random.size }} posts</span>
+        <span class="toggle-icon" aria-hidden="true">&#9660;</span>
+      </button>
+      <ul class="post-list collapsible" id="posts-random">
+        {% assign sorted_posts = site.categories.random | sort: 'date' | reverse %}
+        {% for post in sorted_posts %}
+        <li class="post-list-item">
+          <span class="post-list-date">{{ post.date | date: "%Y" }}</span>
+          <a href="{{ post.url | relative_url }}" class="post-list-title">{{ post.title }}</a>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <!-- ==================== POSTERS ==================== -->
+    <div class="resource-group">
+      <button class="group-toggle" aria-expanded="false" data-target="posters">
+        <span class="group-title">Conference Posters</span>
+        <span class="group-meta">{{ site.data.resources.posters | size }} items</span>
+        <span class="toggle-icon" aria-hidden="true">&#9660;</span>
+      </button>
+      <ul class="post-list collapsible" id="posters">
+        {% for item in site.data.resources.posters %}
+        <li class="post-list-item resource-item">
+          <span class="post-list-date">{{ item.year }}</span>
+          <div class="resource-body">
+            {% if item.file %}
+              <a href="{{ item.file | relative_url }}" class="post-list-title" target="_blank">{{ item.title }}</a>
+            {% else %}
+              <span class="post-list-title">{{ item.title }}</span>
+            {% endif %}
+            <span class="resource-venue">{{ item.venue }}</span>
+            {% if item.description %}
+              <span class="resource-desc">{{ item.description }}</span>
+            {% endif %}
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <!-- ==================== SLIDE DECKS ==================== -->
+    <div class="resource-group">
+      <button class="group-toggle" aria-expanded="false" data-target="slide_decks">
+        <span class="group-title">Slide Decks/Presentations</span>
+        <span class="group-meta">{{ site.data.resources.slide_decks | size }} items</span>
+        <span class="toggle-icon" aria-hidden="true">&#9660;</span>
+      </button>
+      <ul class="post-list collapsible" id="slide_decks">
+        {% for item in site.data.resources.slide_decks %}
+        <li class="post-list-item resource-item">
+          <span class="post-list-date">{{ item.year }}</span>
+          <div class="resource-body">
+            {% if item.file %}
+              <a href="{{ item.file | relative_url }}" class="post-list-title" target="_blank">{{ item.title }}</a>
+            {% else %}
+              <span class="post-list-title">{{ item.title }}</span>
+            {% endif %}
+            <span class="resource-venue">{{ item.venue }}</span>
+            {% if item.description %}
+              <span class="resource-desc">{{ item.description }}</span>
+            {% endif %}
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <!-- ==================== THESES ==================== -->
+    <div class="resource-group">
+      <button class="group-toggle" aria-expanded="false" data-target="theses">
+        <span class="group-title">Theses</span>
+        <span class="group-meta">{{ site.data.resources.theses | size }} items</span>
+        <span class="toggle-icon" aria-hidden="true">&#9660;</span>
+      </button>
+      <ul class="post-list collapsible" id="theses">
+        {% for item in site.data.resources.theses %}
+        <li class="post-list-item resource-item">
+          <span class="post-list-date">{{ item.year }}</span>
+          <div class="resource-body">
+            {% if item.file %}
+              <a href="{{ item.file | relative_url }}" class="post-list-title" target="_blank">{{ item.title }}</a>
+            {% else %}
+              <span class="post-list-title">{{ item.title }}</span>
+            {% endif %}
+            <span class="resource-venue">{{ item.venue }}</span>
+            {% if item.description %}
+              <span class="resource-desc">{{ item.description }}</span>
+            {% endif %}
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <!-- ==================== GRANTS ==================== -->
+    <div class="resource-group">
+      <button class="group-toggle" aria-expanded="false" data-target="grants">
+        <span class="group-title">Grant Applications</span>
+        <span class="group-meta">{{ site.data.resources.grants | size }} items</span>
+        <span class="toggle-icon" aria-hidden="true">&#9660;</span>
+      </button>
+      <ul class="post-list collapsible" id="grants">
+        {% for item in site.data.resources.grants %}
+        <li class="post-list-item resource-item">
+          <span class="post-list-date">{{ item.year }}</span>
+          <div class="resource-body">
+            {% if item.file %}
+              <a href="{{ item.file | relative_url }}" class="post-list-title" target="_blank">{{ item.title }}</a>
+            {% else %}
+              <span class="post-list-title">{{ item.title }}</span>
+            {% endif %}
+            <span class="resource-venue">{{ item.funder }}</span>
+            {% if item.description %}
+              <span class="resource-desc">{{ item.description }}</span>
+            {% endif %}
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+    <!-- ==================== CODE ==================== -->
+    <div class="resource-group">
+      <button class="group-toggle" aria-expanded="false" data-target="code">
+        <span class="group-title">Code & Repositories</span>
+        <span class="group-meta">{{ site.data.resources.code | size }} items</span>
+        <span class="toggle-icon" aria-hidden="true">&#9660;</span>
+      </button>
+      <ul class="post-list collapsible" id="code">
+        {% for item in site.data.resources.code %}
+        <li class="post-list-item resource-item">
+          <span class="post-list-date">{{ item.year }}</span>
+          <div class="resource-body">
+            <a href="{{ item.url }}" class="post-list-title" target="_blank">{{ item.title }}</a>
+            <span class="resource-venue">{{ item.language }}</span>
+            {% if item.description %}
+              <span class="resource-desc">{{ item.description }}</span>
+            {% endif %}
+          </div>
+        </li>
+        {% endfor %}
+      </ul>
+    </div>
+
+  </div>
+</section>
+
+<style>
+  /* ── Collapsible group wrapper ── */
+  .resource-group {
+    border-bottom: 1px solid var(--border-color, #e5e5e5);
+    margin-bottom: 0;
+  }
+
+  /* ── Toggle button ── */
+  .group-toggle {
+    display: flex;
+    align-items: center;
+    gap: 0.75rem;
+    width: 100%;
+    background: none;
+    border: none;
+    padding: 1.25rem 0;
+    cursor: pointer;
+    text-align: left;
+    color: inherit;
+    font: inherit;
+  }
+
+  .group-toggle:hover .group-title {
+    opacity: 0.7;
+  }
+
+  .group-title {
+    font-size: 1.05rem;
+    font-weight: 600;
+    letter-spacing: 0.01em;
+    transition: opacity 0.15s;
+  }
+
+  .group-meta {
+    font-size: 0.8rem;
+    opacity: 0.45;
+    margin-left: 0.25rem;
+  }
+
+  .toggle-icon {
+    margin-left: auto;
+    font-size: 0.7rem;
+    opacity: 0.5;
+    transition: transform 0.25s ease;
+    display: inline-block;
+  }
+
+  .group-toggle[aria-expanded="true"] .toggle-icon {
+    transform: rotate(-180deg);
+  }
+
+  /* ── Collapsible list ── */
+  .collapsible {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height 0.35s ease;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+  }
+
+  .collapsible.is-open {
+    max-height: 9999px;
+  }
+
+  /* ── Resource items with description ── */
+  .resource-item {
+    align-items: flex-start !important;
+  }
+
+  .resource-body {
+    display: flex;
+    flex-direction: column;
+    gap: 0.2rem;
+  }
+
+  .resource-venue {
+    font-size: 0.8rem;
+    opacity: 0.5;
+  }
+
+  .resource-desc {
+    font-size: 0.85rem;
+    opacity: 0.7;
+    font-style: italic;
+  }
+</style>
+
+<script>
+  document.querySelectorAll('.group-toggle').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var target = document.getElementById(btn.dataset.target);
+      var expanded = btn.getAttribute('aria-expanded') === 'true';
+      btn.setAttribute('aria-expanded', String(!expanded));
+      target.classList.toggle('is-open', !expanded);
+    });
+  });
+</script>

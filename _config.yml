@@ -1,0 +1,17 @@
+title: Thomas Morin
+description: Postdoctoral Research Fellow, Cognitive & Computational Neuroscience
+url: "https://www.tmmorin.com"
+baseurl: ""
+author:
+  name: Thomas Morin
+  email: tmorin@mgh.harvard.edu
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+permalink: /writing/:year/:slug/
+
+sass:
+  style: compressed
