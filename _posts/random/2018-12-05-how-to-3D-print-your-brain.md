@@ -3,8 +3,7 @@ layout: post
 title: "How to 3D Print Your Brain"
 date: 2018-12-05
 categories: random
-redirect_from: 
-	- /3dbrain.html
+redirect_from: /3dbrain.html
 ---
 
 # I 3D-printed my brain!
