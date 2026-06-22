@@ -8,6 +8,16 @@ redirect_from: /3dbrain.html
 
 # I 3D-printed my brain!
 
+## UPDATE 2025:
+
+Christopher Rorden and colleagues have developed an even easier way to convert your MRI brain scan into a 3D-printable file! They provide a simple drag and drop tool at [brain2print.org] (https://brain2print.org).
+
+If you're interested in how they did this, you can [read their paper] (https://www.nature.com/articles/s41598-025-00014-5?utm_source=rct_congratemailt&utm_medium=email&utm_campaign=oa_20250505&utm_content=10.1038/s41598-025-00014-5#citeas)!
+
+Note: The brain2print tool assumes the data is already in NIfTI format. To convert DICOM images to NIfTI, check out my original blog post below, or use [Rorden's conversion tool] (https://niivue.github.io/niivue-dcm2niix/) before running brain2print.
+
+## Original Blog Post
+
 A few months ago Matt, another grad student in the lab, suggested that
 we try to 3D-print our brains. Well, we finally did it! Here's how...
 
