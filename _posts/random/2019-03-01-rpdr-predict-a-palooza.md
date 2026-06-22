@@ -3,7 +3,7 @@ layout: post
 title: "RuPaul's Drag Race: Predict-a-palooza"
 date: 2019-03-01
 categories: random
-redirect_from: https://www.tmmorin.com/rpdr_predictions.html
+redirect_from: /rpdr_predictions.html
 ---
 
 Last month [Data for Progress launched a prediction competition](https://www.dataforprogress.org/rpdr/2019/2/14/announcing-the-data-for-progress-rupauls-drag-race-machine-learning-competition) that "finally gives data dorks everywhere the chance to show their Charisma, Uniqueness, Nerve, and T...tests." Start your engines, and may the best algorithm win!

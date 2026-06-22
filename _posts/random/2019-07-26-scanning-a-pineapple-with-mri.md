@@ -3,7 +3,7 @@ layout: post
 title: "Scanning a Pineapple with MRI"
 date: 2019-07-26
 categories: random
-redirect_from: https://www.tmmorin.com/pineapple_scans.html
+redirect_from: /pineapple_scans.html
 ---
 
 ![Animated MRI scan of a pineapple](/assets/img/pineapple_T1_axial.gif)

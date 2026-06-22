@@ -3,7 +3,7 @@ layout: post
 title: "Running with Team BMC"
 date: 2018-10-09
 categories: random
-redirect_from: https://www.tmmorin.com/baa_half.html
+redirect_from: /baa_half.html
 ---
 
 ![Logos for Team BMC and the Boston Athletic Association](/assets/img/baa_half.png)

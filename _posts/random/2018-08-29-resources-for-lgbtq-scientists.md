@@ -3,7 +3,7 @@ layout: post
 title: "500 Queer Scientists"
 date: 2018-08-29
 categories: random
-redirect_from: https://www.tmmorin.com/500qs.html
+redirect_from: /500qs.html
 ---
 
 Back in June, I noticed a couple of posts circulating around Twitter from an account called "[500 Queer Scientists](https://twitter.com/500QueerSci)." As a person who identifies both as gay and as a scientist, I was curious, so I clicked. 500 Queer Scientists is a movement that seeks to increase the visibility of LGBTQ+ people who are working in STEM. As a marginalized population, LGBTQ+ people face increased discrimination in the workplace, and in society at large — and the STEM fields are no exception. This issue has been recently highlighted at my own University (see: [Is Science too Straight?](http://www.bu.edu/research/articles/lgbt-issues-stem-diversity/) published in BU Research), and on an international level (see: [LGBTQ scientists are still left out](https://www.nature.com/articles/d41586-018-05587-y) in Nature). Moreover, some great empirical research has recently emerged on this topic (see [this article by Bryce Hughes](http://advances.sciencemag.org/content/4/3/eaao6373)).
