@@ -21,41 +21,16 @@ posters:
     description: "Univariate fMRI and behavioral analysis of simplified Raven's Progressive Matrices task"
 
 slide_decks:
-  - title: "Frontoparietal control network contributes to abstract reasoning behavior in humans"
-    year: 2020
-    venue: "Boston University"
-    file: /assets/docs/slides/Morin_Quals_compressed.pptx
-    description: "Slides from my PhD qualifying exam"
-  - title: "BU Progress Report (Thesis Prospectus)"
-    year: 2021
-    venue: "Boston University"
-    file: /assets/docs/slides/Morin_ProgressReport.pptx
-    description: "Slides from my PhD Progress Report (some places call this a prospectus)"
-  - title: "Dynamic brain network reconfiguration supports abstract reasoning and rule learning "
-    year: 2022
-    venue: "Boston University"
-    file: /assets/docs/slides/Morin_Defense_2022-03-17_compressed.pptx
-    description: "Slides from my PhD dissertation defense"
-  - title: "Functional reconfiguration of a task-active frontoparietal control network facilitates abstract reasoning"
-    year: 2022
-    venue: "Boston University"
-    file: /assets/docs/slides/Morin_RussekDay_2022.pptx
-    description: "Russek Day Student Achievement Award"
-  - title: "Postdoc Interview Presentation"
-    year: 2022
-    venue: "Brandeis University"
-    file: /assets/docs/slides/Morin_BerryLabMtg_compressed.pptx
-    description: "Slides presented during my postdoc interview with the Berry Lab at Brandeis"
-  - title: "2022 ISTAART NSS PIA Year in Review"
-    year: 2023
-    venue: "ISTAART NSS PIA"
-    file: /assets/docs/slides/Morin_NSS_PIA_YearInReview2022_compressed.pptx
-    description: "A look back at some of our favorite papers from 2022 related to neuromodulatory and subocortical systems (NSS) for the ISTAART Professional Interest Area"
-  - title: "Deciphering Dopamine: The Aging Brain's Unsolved Riddle"
-    year: 2023
-    venue: "Beacon Hill Seminars"
-    file: /assets/docs/slides/Morin_BeaconHillSeminars2023.pptx
-    description: "A brief overview of the science on dopamine, aging, and Alzheimer's disease for a general audience"
+  - title: "Intro to Neuroimaging"
+    year: 2026
+    venue: "Tufts University, PSY 9"
+    file: /assets/docs/slides/Intro_to_Brain_Imaging_2026.pptx
+    description: "Guest lecture for Tufts Intro to Cognitive & Brain Science"
+  - title: "fMRI CSF Flow Imaging Animation"
+    year: 2026
+    venue: "Brandeis Berry Lab Meeting 2026"
+    file: /assets/docs/slides/Morin_CSF_flow_explainer.pptx
+    description: "Lab meeting presentation on measuring CSF flow with fMRI"
   - title: "Brain Health & Alzheimer's: What Everyone Should Know"
     year: 2025
     venue: "Seniors Helping Seniors of Waltham"
@@ -66,16 +41,41 @@ slide_decks:
     venue: "Science on Tap, Martinos Center"
     file: /assets/docs/slides/Morin_BIDS_April2025.pptx
     description: "Introduction to the Brain Imaging Data Structure"
-  - title: "Intro to Neuroimaging"
-    year: 2026
-    venue: "Tufts University, PSY 9"
-    file: /assets/docs/slides/Intro_to_Brain_Imaging_2026.pptx
-    description: "Guest lecture for Tufts Intro to Cognitive & Brain Science"
-  - title: "fMRI CSF Flow Imaging Animation"
-    year: 2026
-    venue: "Brandeis Berry Lab Meeting 2026"
-    file: /assets/docs/slides/Morin_CSF_flow_explainer.pptx
-    description: "Guest lecture for Tufts Intro to Cognitive & Brain Science"
+  - title: "2022 ISTAART NSS PIA Year in Review"
+    year: 2023
+    venue: "ISTAART NSS PIA"
+    file: /assets/docs/slides/Morin_NSS_PIA_YearInReview2022_compressed.pptx
+    description: "A look back at some of our favorite papers from 2022 related to neuromodulatory and subocortical systems (NSS) for the ISTAART Professional Interest Area"
+  - title: "Deciphering Dopamine: The Aging Brain's Unsolved Riddle"
+    year: 2023
+    venue: "Beacon Hill Seminars"
+    file: /assets/docs/slides/Morin_BeaconHillSeminars2023.pptx
+    description: "A brief overview of the science on dopamine, aging, and Alzheimer's disease for a general audience"
+  - title: "Functional reconfiguration of a task-active frontoparietal control network facilitates abstract reasoning"
+    year: 2022
+    venue: "Boston University"
+    file: /assets/docs/slides/Morin_RussekDay_2022.pptx
+    description: "Russek Day Student Achievement Award"
+  - title: "Postdoc Interview Presentation"
+    year: 2022
+    venue: "Brandeis University"
+    file: /assets/docs/slides/Morin_BerryLabMtg_compressed.pptx
+    description: "Slides presented during my postdoc interview with the Berry Lab at Brandeis"
+  - title: "Dynamic brain network reconfiguration supports abstract reasoning and rule learning "
+    year: 2022
+    venue: "Boston University"
+    file: /assets/docs/slides/Morin_Defense_2022-03-17_compressed.pptx
+    description: "Slides from my PhD dissertation defense"
+  - title: "BU Progress Report (Thesis Prospectus)"
+    year: 2021
+    venue: "Boston University"
+    file: /assets/docs/slides/Morin_ProgressReport.pptx
+    description: "Slides from my PhD Progress Report (some places call this a prospectus)"
+  - title: "Frontoparietal control network contributes to abstract reasoning behavior in humans"
+    year: 2020
+    venue: "Boston University"
+    file: /assets/docs/slides/Morin_Quals_compressed.pptx
+    description: "Slides from my PhD qualifying exam"
 
 theses:
   - title: "Dynamic brain network reconfiguration supports abstract reasoning and rule learning"
