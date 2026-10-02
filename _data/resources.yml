@@ -92,26 +92,31 @@ grants:
     year: 2023
     funder: "NIH/NIA"
     file: /assets/docs/grants/Morin_F32_A1_science.pdf
-    description: "Funded postdoctoral fellowship proposal."
+    description: "A0: Not Discussed; A1: Impact Score of 33, Funded"
   - title: "NIH Loan Repayment Program Proposal (Funded)"
     year: 2023
     funder: "NIH/NIA"
     file: /assets/docs/grants/Morin_LRP_science.pdf
-    description: "Funded loan repayment program proposal"
+    description: "Initial App: Funded 2024-2026; Renewal: Funded 2026-2027"
   - title: "Alzheimer's Association Research Fellowship (Not Funded)"
     year: 2023
     funder: "Alzheimer's Association"
     file: /assets/docs/grants/Morin_AARF_Science_A1.pdf
-    description: "GRFP research proposal and personal statement."
+    description: "Alz. Association Research Fellowship Aims & Approach"
   - title: "NIA F99/K00 Application (Not Funded)"
     year: 2020
     funder: "NIH/NIA"
     file: /assets/docs/grants/Morin_F99K00_2020_Resubmission_Science.pdf
-    description: "GRFP research proposal and personal statement."
-  - title: "NSF Graduate Research Fellowship (Not Funded - Honorable Mention)"
+    description: "A0: Not Discussed; A1: Impact Score of 29, Not Funded"
+  - title: "NSF Graduate Research Fellowship (Not Funded)"
     year: 2018
     funder: "NSF"
     file: /assets/docs/grants/Morin_NSF_GRFP.pdf
+    description: "GRFP research proposal and personal statement."
+  - title: "NSF Graduate Research Fellowship (Not Funded - Honorable Mention)"
+    year: 2017
+    funder: "NSF"
+    file: /assets/docs/grants/Morin_NSF_GRFP_2017.pdf
     description: "GRFP research proposal and personal statement."
 
 personal_statements:
