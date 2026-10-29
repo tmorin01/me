@@ -1,5 +1,14 @@
 # ── Published ──────────────────────────────────────────────────────────────────
 
+- title: "Connectome fingerprinting predicts prefrontal cortical activation during abstract reasoning"
+  authors: "Isenburg K, Liu Y, Morin TM, & Stern, CE"
+  journal: Imaging Neuroscience
+  year: 2026
+  url: "https://doi.org/10.1162/IMAG.a.1460"
+  tags: [functional connectivity, abstract reasoning, machine learning]
+  links: [<a href="../assets/pubs/isenburg2026_imagingneuroscience.pdf">PDF</a>,
+          <a href="https://github.com/yixial-1736/connectome_fingerprint">github</a>]
+
 - title: "Alzheimer’s Disease Pathologies Affect Dopaminergic Neural Mechanisms of Memory"
   authors: "Morin TM, Cowan JL, Chen HY, Parent J, Crawford JL, Ciampa CJ, Tennant V, Whitman AJ, Swinneton KN, Hsu M, Jagust WJ, & Berry AS"
   journal: Journal of Neuroscience
